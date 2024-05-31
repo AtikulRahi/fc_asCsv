@@ -1,1 +1,1 @@
-# fc_asCsv
+Firstly make a list, then mapping the list and add dictionary and a null geometry. Lastly exported the feature collection as CSV file. Here is the [GEE code link](https://code.earthengine.google.com/0030dd11c38209e87b03cb5495b8fd2b), then the [code](https://github.com/AtikulRahi/fc_asCsv/blob/main/mappingList.js), the [snapshot of the code](https://github.com/AtikulRahi/fc_asCsv/blob/main/fc%20as%20CSV.JPG), and lastly [CSV file](https://github.com/AtikulRahi/fc_asCsv/blob/main/FcShapefile.csv).
